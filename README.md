@@ -1,5 +1,5 @@
 <div align="center">
-  ~ 🦀 It's just Rust, Rust, Rust and Rust. Maybe some Svelte, too. ~
+  <h1>~ Hi there 😉 ~</h1>
   <br/>
   🔥 Check out my latest project: https://github.com/HubertK05/banban
   <hr/>
@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HubertK05&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HubertK05&theme=onedark&hide_border=true"/>
 </div>
+
 <div>
   <hr/>
   What I'm (or was) involved in:
