@@ -1,7 +1,9 @@
 <div align="center">
   <h1>~ Hi there 👋 ~</h1>
   <br/>
-    🔥 Check out my latest project: https://github.com/HubertK05/banban
+  ♞ Chess bot: https://github.com/HubertK05/rusty_chess
+  <br/>
+  🔥 App inspired by GitHub Kanban board: https://github.com/HubertK05/banban
   <hr/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubertK05&theme=onedark&show_icons=true&hide_border=true&layout=compact"/>
   <br/>
