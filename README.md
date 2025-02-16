@@ -53,8 +53,9 @@ What I'm (or was) involved in:
 <hr/>
 
 <div align="center">
-  <h3>Please consider to</h3>
+  <h3>If you are inspired by my work, you can</h3>
   <a href="https://www.buymeacoffee.com/HubertK05" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <h3>Your support will be greatly appreciated!</h3>
 </div>
 
 <!--
